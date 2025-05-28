@@ -113,25 +113,31 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Crazy Bot connected to whatsapp ✅')
   
-  let up = `Hello there CRAZY-V3 User! 👋🏼
+  let up = `╔══════ •⊰✧⊱• ══════╗
+   ✨ *CRAZY-V3 NOTICE* ✨
+╚══════ •⊰✧⊱• ══════╝
 
-> Sleek, Powerful, and Fully Loaded with Features 🎯
-  
-Meet CRAZY-V3 — Your Ultimate WhatsApp Bot Experience!
+⚡ *Hello CRAZY-V3 User!* 👋
 
-*Thanks for using CRAZY-V3🐦*
+━━━━━━ •✧• ━━━━━━
+» *Sleek, Powerful & Feature-Packed* 💎
+» Your ultimate WhatsApp bot experience!
 
-> Join Our WhatsApp Channel for Updates & Support: 🦢  
+❤️ *Thanks for choosing CRAZY-V3*
+
+━━━━━━ •✧• ━━━━━━
+🔗 *Official Channel:*
 
 https://whatsapp.com/channel/0029VbANsvkIiRp31CEW3C2C
 
-- *YOUR PREFIX:* = ${prefix}
+⚙️ *Your Prefix:* » [ *${prefix}* ]
 
-Don’t forget to ⭐ the repo and share it with others!  
+━━━━━━ •✧• ━━━━━━
+📌 Please ⭐ our GitHub repo!
 
-https://github.com/DavidTechInc/CRAZY-V3
+🌐 https://github.com/DavidTechInc/CRAZY-V3
 
-> © Powered by Crazy Dev — CRAZY TECH INC`;
+© *CRAZY TECH INC* - *Innovating For You*`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/hlfa1a.jpeg` }, caption: up })
   }
   })
