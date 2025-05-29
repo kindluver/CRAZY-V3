@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "CRAZY;;;yIR3VQKK#hgFCobApC5hQJJoEjjMXsErhU39Q9AHLTVNtqsIL-OI"
     },  
     
     "STICKER_NAME": {
@@ -175,7 +175,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "🤎,🖤,🤍"
     }, 
     
     "ANTI_DEL_PATH": {
